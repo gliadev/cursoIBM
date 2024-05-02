@@ -17,7 +17,15 @@
 
 Al completar con éxito este curso, recibirás una certificación que valida tus habilidades en Python Full Stack. Puedes agregar esta certificación a tu perfil de LinkedIn.
 
-[🏆 Ver Certificación](https://www.credly.com/badges/5cea7f95-6b36-40fe-b91a-a3e6fdd06421/linked_in_profile)
+
+
+
+
+## Certificación
+
+Al completar con éxito este curso, recibirás una certificación que valida tus habilidades en Python Full Stack. Puedes agregar esta certificación a tu perfil de LinkedIn.
+
+[![🏆 Ver Certificación]](https://github.com/gliadev/cursoIBM/blob/main/iconos/certificacion.png?raw=true)](https://www.credly.com/badges/5cea7f95-6b36-40fe-b91a-a3e6fdd06421/linked_in_profile)
 
 ## Captura de pantalla del curso
 
